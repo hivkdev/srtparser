@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="module">
+        import {SrtParser} from './srtparser.js';
+
+
+
+
+
+
+        async function loadcaption() {
+            fetch('track.srt').then(res=>{
+                  // Verifica se a resposta foi bem-sucedida
+        if (!res.ok) {
+            throw new Error('Network response was not ok ' + res.statusText);
+        }
+        return res.text(); // Ou res.json(), dependendo do tipo de resposta
+            }
+            ).catch(err=>{
+                throw Error(String(err))
+            })
+        }
+        
+let track;
+    ((async function(){
+console.log("hello world")
+const res = await fetch('track.srt')
+const text = await res.text()
+track = new SrtParser(text);
+track.run()
+console.log(track.GetKey(20))
+    }))()
+
+        </script>
+</body>
+</html>
