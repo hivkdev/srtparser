@@ -1,3062 +1,350 @@
-1
-00:00:17,489 --> 00:00:25,489
-O DELÍRIO DE UM SÁBIO (1940)
+﻿1
+00:00:02,499 --> 00:00:06,416
+[SERENE MUSIC]
 
 2
-00:01:26,044 --> 00:01:30,244
-Quanto tempo vai levar até
-admitir que não conseguirá?
+00:00:11,791 --> 00:00:13,958
+[BROOK BABBLES] 
+[FLY BUZZES]
 
 3
-00:01:30,844 --> 00:01:34,245
-Nenhum, caro Mendoza,
-porque já consegui.
+00:00:16,166 --> 00:00:17,666
+[BIRD TWEETS]
 
 4
-00:01:34,345 --> 00:01:35,945
-E ainda está vivo.
+00:00:17,666 --> 00:00:18,708
+[WINGS FLAP]
 
 5
-00:01:46,446 --> 00:01:49,046
-Veja. Veja você mesmo.
+00:00:19,833 --> 00:00:20,374
+[BIRD TWEETS] 
+[WINGS FLAP]
 
 6
-00:01:57,146 --> 00:01:58,146
-Incrível.
+00:00:20,374 --> 00:00:21,041
+[THUD]
 
 7
-00:01:58,246 --> 00:01:59,446
-Está vendo?
+00:00:21,374 --> 00:00:22,249
+[THUD]
 
 8
-00:01:59,747 --> 00:02:02,747
-Eu usei rádio suficiente
-para fazê-lo em pedaços...
+00:00:22,249 --> 00:00:23,083
+[SQUIRREL LAUGHS]
 
 9
-00:02:02,847 --> 00:02:05,347
-e, ainda assim,
-consegui mantê-lo vivo.
+00:00:26,249 --> 00:00:27,541
+[SNORES]
 
 10
-00:02:10,747 --> 00:02:12,547
-Você precisa parar
-com isto.
+00:00:29,416 --> 00:00:30,708
+[SNORES]
 
 11
-00:02:13,248 --> 00:02:15,948
-Destrua suas amostras.
-Queime suas anotações.
+00:00:32,749 --> 00:00:34,041
+[BUNNY SNORES]
 
 12
-00:02:18,848 --> 00:02:20,048
-Você está louco?
+00:00:35,916 --> 00:00:37,249
+[BUNNY SNORES]
 
 13
-00:02:20,049 --> 00:02:22,348
-Deve me ouvir antes
-que seja tarde demais.
+00:00:45,333 --> 00:00:46,541
+[BUNNY SNIFFS]
 
 14
-00:02:22,448 --> 00:02:25,048
-Quando eu descobri este
-depósito gigantesco de rádio...
+00:00:46,541 --> 00:00:47,874
+[EARS POP]
 
 15
-00:02:25,148 --> 00:02:28,549
-pensei primeiro em você, o
-Dr. Thorkel, meu professor.
+00:00:50,083 --> 00:00:51,958
+[BUNNY YAWNS]
 
 16
-00:02:28,649 --> 00:02:30,849
-O Dr. Thorkel,
-o grande biólogo.
+00:00:52,499 --> 00:00:53,541
+[BUNNY CRACKS NECK]
 
 17
-00:02:30,949 --> 00:02:32,649
-Mandei chamá-lo
-para me aconselhar.
+00:01:08,416 --> 00:01:09,958
+[BUNNY SNIFFS DEEPLY]
 
 18
-00:02:32,749 --> 00:02:34,649
-Imaginei a criação do
-Instituto Thorkel aqui na selva.
+00:01:13,499 --> 00:01:15,166
+[BUNNY SNIFFS DEEPLY]
 
 19
-00:02:34,749 --> 00:02:38,949
-Um palácio de cura
-para todo o mundo.
+00:01:15,166 --> 00:01:16,416
+[BUNNY SIGHS]
 
 20
-00:02:40,150 --> 00:02:42,350
-Por acaso somos
-médicos de campo?
+00:01:23,624 --> 00:01:24,999
+[APPLE THUDS]
 
 21
-00:02:42,650 --> 00:02:44,650
-Você não percebe
-o que temos aqui?
+00:01:30,041 --> 00:01:31,083
+[TREE RUSTLES SUSPICIOUSLY]
 
 22
-00:02:44,651 --> 00:02:48,450
-Temos em nossas mãos a
-força cósmica da criação.
+00:01:34,499 --> 00:01:35,541
+[APPLE CRUNCHES]
 
 23
-00:02:48,550 --> 00:02:51,450
-Temos o poder de
-transformar a vida...
+00:01:41,958 --> 00:01:42,999
+[LEAVES RUSTLE]
 
 24
-00:02:51,750 --> 00:02:54,251
-de destruí-la e
-reconstruí-la novamente.
+00:01:46,541 --> 00:01:47,583
+[APPLE CORE THUDS]
 
 25
-00:02:54,252 --> 00:02:55,851
-Moldá-la como argila.
+00:02:10,874 --> 00:02:11,916
+[SQUIRREL SCUTTLES]
 
 26
-00:02:55,951 --> 00:02:57,651
-Mas é uma loucura.
+00:02:13,083 --> 00:02:14,249
+[BRANCHES RUSTLE]
 
 27
-00:02:57,652 --> 00:02:59,251
-É diabólico!
+00:02:19,499 --> 00:02:20,374
+[SQUIRREL SQUEAKS]
 
 28
-00:02:59,951 --> 00:03:03,451
-Joga com poderes
-reservados a Deus.
+00:02:20,374 --> 00:02:21,416
+[THUD]
 
 29
-00:03:04,351 --> 00:03:06,151
-E isso é bom.
+00:02:29,208 --> 00:02:32,083
+[NUT CRUNCHING]
 
 30
-00:03:06,251 --> 00:03:07,752
-É muito bom.
+00:02:32,916 --> 00:02:33,749
+[SQUIRREL SQUEAKS ANGRILY]
 
 31
-00:03:07,852 --> 00:03:09,252
-É exatamente isso
-que estou fazendo.
+00:02:33,749 --> 00:02:34,749
+[NUT THUDS]
 
 32
-00:03:09,352 --> 00:03:11,452
-Não vou permitir.
+00:02:38,166 --> 00:02:39,166
+[NUT THUDS]
 
 33
-00:03:12,152 --> 00:03:15,052
-Esqueceu quem é o
-mestre e quem é o aluno?
+00:02:40,999 --> 00:02:42,708
+[SQUIRRELS LAUGHING]
 
 34
-00:03:15,053 --> 00:03:18,152
-Não, e por isso peço-Ihe
-que renuncie a este mal.
+00:02:44,166 --> 00:02:45,166
+[SQUIRREL SNAPS FINGERS]
 
 35
-00:03:18,352 --> 00:03:20,553
-Você vai interferir
-no meu trabalho?
+00:02:49,374 --> 00:02:50,916
+[NUT WHOOSHES]
 
 36
-00:03:20,554 --> 00:03:24,753
-Eu devo. Tudo isso é meu,
-e eu o proíbo.
+00:02:54,458 --> 00:02:56,124
+[NUTS THUDDING]
 
 37
-00:03:25,053 --> 00:03:26,453
-Você proíbe?
+00:02:56,124 --> 00:02:58,083
+[NUTS WHOOSHING]
 
 38
-00:03:48,821 --> 00:03:51,055
-FUNDAÇÃO NORTE AMERICANA
-DE PESQUISA
+00:02:58,083 --> 00:03:00,583
+[NUTS THUDDING]
 
 39
-00:03:51,155 --> 00:03:54,155
-Certamente Grossmith
-poderá assumir as suas aulas.
+00:03:00,583 --> 00:03:04,208
+[NUTS WHOOSHING]
 
 40
-00:03:54,255 --> 00:03:56,655
-Não estou preocupado
-com isso, mas...
+00:03:06,541 --> 00:03:09,083
+[SUSPENSFUL MUSIC]
 
 41
-00:03:56,755 --> 00:03:59,455
-o Dr. Thorkel não teria me
-chamado a menos que fosse algo...
+00:03:15,833 --> 00:03:16,833
+[BUTTERFLY SPLATS]
 
 42
-00:03:59,456 --> 00:04:01,556
-de extrema importância.
+00:03:17,083 --> 00:03:19,416
+[DRAMATIC MUSIC]
 
 43
-00:04:01,557 --> 00:04:03,956
-Você conhece o Dr. Thorkel
-apenas pela sua reputação.
+00:03:22,708 --> 00:03:24,208
+[SQUIRREL CLAPS]
 
 44
-00:04:03,957 --> 00:04:06,556
-Trabalhei com ele durante
-um inverno no Instituto.
+00:03:24,999 --> 00:03:26,166
+[BUNNY GULPS]
 
 45
-00:04:06,656 --> 00:04:08,956
-Ele é um homem
-muito estranho.
+00:03:29,124 --> 00:03:30,249
+[WINGS FLAP]
 
 46
-00:04:09,056 --> 00:04:11,356
-É muito reservado com
-relação as suas experiências.
+00:03:34,166 --> 00:03:35,166
+[THUD]
 
 47
-00:04:11,656 --> 00:04:13,956
-E agora que completa
-dois anos isolado...
+00:03:38,499 --> 00:03:40,791
+[SQUIRREL SQUEAKS]
 
 48
-00:04:14,056 --> 00:04:16,257
-em um acampamento
-na selva amazônica..
+00:03:45,457 --> 00:03:46,457
+[CONKERS WHOOSH]
 
 49
-00:04:16,357 --> 00:04:19,057
-quem sabe dizer como está
-sua saúde mental?
+00:03:46,707 --> 00:03:47,707
+[CONKERS THUD]
 
 50
-00:04:19,657 --> 00:04:21,457
-Dr. Thorkel pode
-ser excêntrico...
+00:04:14,582 --> 00:04:18,582
+[MOTIVATIONAL MUSIC]
 
 51
-00:04:21,557 --> 00:04:24,157
-mas é também o maior
-biólogo de nosso tempo.
+00:04:30,207 --> 00:04:34,291
+[JOVIAL MUSIC]
 
 52
-00:04:24,158 --> 00:04:26,757
-Ficarei feliz em
-ajudá-lo, se puder.
+00:04:36,582 --> 00:04:40,666
+[MILITARY MUSIC]
 
 53
-00:04:26,857 --> 00:04:29,158
-Eu desejaria
-que não fosse.
+00:04:45,332 --> 00:04:49,416
+[INQUISITIVE MUSIC]
 
 54
-00:04:43,859 --> 00:04:47,959
-Dr. Rupert Bulfinch Fundação
-Norte-Americana de Pesquisas
+00:04:54,541 --> 00:04:57,082
+[MUSIC CRESCENDOS]
 
 55
-00:04:48,159 --> 00:04:51,159
-Cidade de New York.
+00:05:02,207 --> 00:05:04,957
+[GRASS RUSTLING]
 
 56
-00:04:52,159 --> 00:04:55,060
-Estou feliz por encarregar-me dos
-serviços microscópicos da expedição.
+00:05:21,374 --> 00:05:22,207
+[BOW STRING PINGS]
 
 57
-00:04:55,061 --> 00:04:57,960
-Ciente das dificuldades da
-viagem, mas não estou preocupada.
+00:05:22,624 --> 00:05:23,457
+[VINE SNAPS]
 
 58
-00:05:00,260 --> 00:05:03,660
-Dr. Stockton, nós já
-percorremos 15 mil Km.
+00:05:25,499 --> 00:05:28,416
+[SQUIRRELS SNIFFING]
 
 59
-00:05:03,760 --> 00:05:06,360
-Por favor, faça um esforço para
-compreender a nossa situação.
+00:05:29,624 --> 00:05:30,832
+[SQUIRREL SQUEAKS ORDERS]
 
 60
-00:05:06,460 --> 00:05:08,461
-Posso compreender
-perfeitamente.
+00:05:32,624 --> 00:05:35,082
+[ROPES CREAK]
 
 61
-00:05:08,462 --> 00:05:10,461
-O Dr. Hardy não
-suporta a altitude...
+00:05:37,124 --> 00:05:38,499
+[THUD]
+[SQUIRREL SQUEAKS IN PAIN]
 
 62
-00:05:10,462 --> 00:05:13,961
-e eu sou o único mineralogista
-disponível nesta região de Lima.
+00:05:38,499 --> 00:05:39,916
+[THUD]
 
 63
-00:05:14,861 --> 00:05:16,461
-A resposta continua
-sendo não.
+00:05:41,582 --> 00:05:42,541
+[NUT CRUNCHES]
 
 64
-00:05:16,561 --> 00:05:20,461
-Fomos alertados que recusaria
-qualquer forma habitual de trabalho.
+00:05:46,374 --> 00:05:47,374
+[ROCK CRASHES]
 
 65
-00:05:20,561 --> 00:05:22,462
-Quem me fez esse favor?
+00:05:51,332 --> 00:05:52,332
+[LOG CRUNCHES]
 
 66
-00:05:22,463 --> 00:05:24,462
-Falamos com o Cônsul, claro.
+00:05:53,332 --> 00:05:54,332
+[LOG THUDS]
 
 67
-00:05:24,463 --> 00:05:26,062
-E o que ele disse?
+00:06:00,874 --> 00:06:01,874
+[SQUIRREL SQUEAKS]
 
 68
-00:05:26,262 --> 00:05:30,662
-Oficialmente, ele disse que
-você está em férias prolongadas.
+00:06:11,957 --> 00:06:12,874
+[TRAP PINGS]
 
 69
-00:05:31,062 --> 00:05:32,262
-Mas, como seu amigo...
+00:06:12,874 --> 00:06:15,832
+[SQUIRREL SQUEALS]
 
 70
-00:05:32,362 --> 00:05:36,163
-admite que teve prejuízo
-ao comprar as suas promissórias.
+00:06:28,582 --> 00:06:29,499
+[THUD]
 
 71
-00:05:37,163 --> 00:05:39,663
-Você pega as coisas
-muito rápido, não é?
+00:06:38,582 --> 00:06:40,332
+[WINGS POP]
 
 72
-00:05:43,863 --> 00:05:46,863
-Então, Sr. Stockton,
-o que prefere?
+00:06:50,791 --> 00:06:51,707
+[TWIG SNAPS]
 
 73
-00:05:47,063 --> 00:05:50,264
-Ir para a cadeia ou trabalhar?
+00:06:58,665 --> 00:06:59,582
+[APPLE THUDS]
 
 74
-00:06:08,565 --> 00:06:09,665
-Não.
+00:06:59,999 --> 00:07:00,915
+[TRAPS SNAP]
 
 75
-00:06:09,865 --> 00:06:12,365
-Eu não alugaria essas
-mulas nem para minha mãe.
+00:07:01,874 --> 00:07:03,999
+[TRAPS SNAPPING]
 
 76
-00:06:12,865 --> 00:06:13,965
-Eu gostaria de ajudá-lo.
+00:07:10,915 --> 00:07:13,040
+[TRAPS SNAPPING]
 
 77
-00:06:14,065 --> 00:06:15,866
-Não precisamos da sua ajuda.
+00:07:16,290 --> 00:07:16,999
+[BRANCHES SNAP]
 
 78
-00:06:15,966 --> 00:06:18,866
-Reservamos essas mulas,
-por telegrama, um mês atrás.
+00:07:17,957 --> 00:07:19,415
+[WINGS FLAPPING]
 
 79
-00:06:19,366 --> 00:06:20,466
-Sinto muito.
+00:07:21,957 --> 00:07:23,040
+[SQUIRREL SQUEALS]
 
 80
-00:06:20,566 --> 00:06:21,966
-Neste meio tempo,
-eu as comprei.
+00:07:26,124 --> 00:07:28,249
+[BRANCH CREAKING]
 
 81
-00:06:22,366 --> 00:06:25,066
-Sou mineiro e preciso delas.
+00:07:36,749 --> 00:07:38,457
+[SQUIRREL SQUEAKS IN PAIN]
 
 82
-00:06:26,166 --> 00:06:29,167
-Poderia, por favor, ao menos
-ouvir o que tenho para dizer?
+00:07:43,249 --> 00:07:47,874
+[SERENE MUSIC]
 
 83
-00:06:29,767 --> 00:06:30,867
-Claro.
+00:08:00,749 --> 00:08:03,499
+[WIND BLOWS]
 
 84
-00:06:31,267 --> 00:06:32,867
-Eu sou um biólogo.
+00:08:10,040 --> 00:08:17,040
+[TRIUMPHANT MUSIC]
 
 85
-00:06:33,467 --> 00:06:35,167
-Claro, um caçador de insetos.
+00:09:41,790 --> 00:09:44,999
+[BIRD FLAPPING]
 
 86
-00:06:35,467 --> 00:06:38,567
-O Dr. Alexander Thorkel,
-a quem vamos nos unir...
+00:09:47,749 --> 00:09:50,957
+[BIRD FLAPPING]
 
 87
-00:06:38,568 --> 00:06:40,667
-também é um caçador
-de inse... Um biólogo.
-
-88
-00:06:40,668 --> 00:06:42,668
-Há dois anos que faz
-um trabalho de campo...
-
-89
-00:06:42,768 --> 00:06:45,868
-em seu acampamento
-no rio Karana.
-
-90
-00:06:47,068 --> 00:06:50,368
-É um lugar muito perigoso e
-isolado para caçar borboletas.
-
-91
-00:06:52,368 --> 00:06:54,068
-Você parece não compreender...
-
-92
-00:06:54,168 --> 00:06:56,369
-que o Dr. Thorkel é a maior...
-
-93
-00:06:56,370 --> 00:06:58,469
-autoridade em estrutura
-molecular orgânica.
-
-94
-00:06:58,569 --> 00:07:01,069
-Não há nada como
-aprender um ofício.
-
-95
-00:07:01,369 --> 00:07:03,969
-Você me convenceu.
-Agora vamos ver se o convence.
-
-96
-00:07:05,569 --> 00:07:08,269
-Você quer mais dinheiro
-pelas suas mulas?
-
-97
-00:07:08,569 --> 00:07:10,770
-Suponho que você
-também é uma doutora.
-
-98
-00:07:11,770 --> 00:07:14,470
-Se não quer dinheiro,
-o que quer?
-
-99
-00:07:16,370 --> 00:07:17,670
-Quero ir junto.
-
-100
-00:07:17,770 --> 00:07:20,170
-Isso não estava previsto.
-
-101
-00:07:20,270 --> 00:07:23,871
-Dr. Thorkel pediu apenas três
-pessoas selecionadas, apenas três.
-
-102
-00:07:23,872 --> 00:07:25,571
-Como queiram.
-
-103
-00:07:25,871 --> 00:07:28,571
-Se as mulas vão, eu também vou.
-
-104
-00:09:07,478 --> 00:09:09,078
-Doutor Thorkel.
-
-105
-00:09:09,678 --> 00:09:10,879
-O que é?
-
-106
-00:09:10,979 --> 00:09:12,079
-Eles chegaram.
-
-107
-00:09:12,179 --> 00:09:13,279
-Muito bom.
-
-108
-00:09:31,780 --> 00:09:33,180
-Onde está o Dr. Thorkel?
-
-109
-00:09:33,280 --> 00:09:35,180
-Você viu um cavalo com manchas?
-
-110
-00:09:35,280 --> 00:09:37,080
-Não, nenhum cavalo.
-
-111
-00:09:37,180 --> 00:09:38,581
-Ele se foi.
-
-112
-00:09:39,281 --> 00:09:40,281
-Tipo.
-
-113
-00:09:42,781 --> 00:09:44,781
-Meu cachorro, não quero
-que ele se perca também.
-
-114
-00:09:44,881 --> 00:09:47,181
-Então amarre-o..
-O Dr. Thorkel não está aqui?
-
-115
-00:09:47,481 --> 00:09:49,581
-Ele já está vindo.
-
-116
-00:09:55,282 --> 00:09:57,882
-Dr. Bulfinch, sua vinda me honra.
-
-117
-00:09:57,982 --> 00:10:01,482
-A honra é minha por unir-me
-ao senhor, Dr. Thorkel.
-
-118
-00:10:01,582 --> 00:10:03,182
-Você deve ser a Dra. Robinson.
-
-119
-00:10:03,183 --> 00:10:04,282
-Foi muito corajosa em vir.
-
-120
-00:10:04,382 --> 00:10:06,083
-Encantada.
-
-121
-00:10:06,583 --> 00:10:09,483
-Dr. Hardy, é mais jovem
-do que eu pensava.
-
-122
-00:10:09,583 --> 00:10:11,183
-Desculpe desapontá-lo,
-mas não sou o Dr. Hardy.
-
-123
-00:10:11,184 --> 00:10:12,683
-Eu sou Bill Stockton.
-
-124
-00:10:12,783 --> 00:10:14,683
-O Dr. Hardy ficou
-doente e por isso...
-
-125
-00:10:14,684 --> 00:10:16,583
-contratamos os
-serviços do Sr. Stockton.
-
-126
-00:10:16,983 --> 00:10:19,184
-Estou certo que está qualificado.
-
-127
-00:10:19,284 --> 00:10:20,984
-Meu passado foi bem investigado.
-
-128
-00:10:21,084 --> 00:10:23,484
-Um lugar estranho este aqui,
-perdido em plena floresta.
-
-129
-00:10:23,584 --> 00:10:25,184
-Ignorava que estavam em quatro.
-
-130
-00:10:25,284 --> 00:10:26,384
-Olá, doutor.
-
-131
-00:10:26,385 --> 00:10:28,984
-O Sr. Baker é
-proprietário das mulas.
-
-132
-00:10:28,985 --> 00:10:30,984
-Ele insistiu em vir junto
-para cuidar delas.
-
-133
-00:10:32,185 --> 00:10:34,385
-Foi muito gentil de
-sua parte nos ajudar.
-
-134
-00:10:35,785 --> 00:10:37,685
-Dr. Bulfinch, seu
-último trabalho sobre...
-
-135
-00:10:37,686 --> 00:10:39,485
-a estrutura molecular de
-tecidos biológicos...
-
-136
-00:10:39,585 --> 00:10:40,685
-me convenceu de que não havia...
-
-137
-00:10:40,686 --> 00:10:41,885
-ninguém melhor
-para colaborar comigo...
-
-138
-00:10:41,886 --> 00:10:44,185
-nesta fase do meu trabalho.
-
-139
-00:10:44,285 --> 00:10:45,786
-Estou duplamente
-honrado.
-
-140
-00:10:45,886 --> 00:10:47,586
-A sua presença
-aqui é muito valiosa...
-
-141
-00:10:47,687 --> 00:10:49,386
-e eu pedi que viesse...
-
-142
-00:10:49,486 --> 00:10:52,786
-porque minha vista já não me
-permite usar o microscópio.
-
-143
-00:10:54,386 --> 00:10:55,386
-Chocante.
-
-144
-00:10:55,686 --> 00:10:58,487
-E nada pode ser feito?
-E se fosse à um especialista?
-
-145
-00:10:58,587 --> 00:11:00,787
-Não, devo ficar aqui até que
-meu trabalho esteja concluído.
-
-146
-00:11:01,187 --> 00:11:05,487
-Estão muito cansados para
-começarmos imediatamente?
-
-147
-00:11:05,987 --> 00:11:07,587
-Claro que não.
-
-148
-00:11:14,288 --> 00:11:15,288
-Pronto.
-
-149
-00:11:15,388 --> 00:11:17,388
-Vamos chamar esse
-espécime de "A".
-
-150
-00:11:17,488 --> 00:11:19,788
-Por favor, Dr. Bulfinch.
-
-151
-00:11:23,188 --> 00:11:25,288
-Bill, você deve fazer a
-sua parte no trabalho.
-
-152
-00:11:25,389 --> 00:11:27,289
-Eu sou a responsável por você.
-
-153
-00:11:28,689 --> 00:11:30,889
-Se você tivesse um rebanho
-de ovelhas ou nove filhos...
-
-154
-00:11:30,989 --> 00:11:32,589
-teria motivos para se preocupar.
-
-155
-00:11:32,689 --> 00:11:34,889
-Deterioração progressiva.
-
-156
-00:11:35,189 --> 00:11:38,289
-Inclusive com a desintegração
-da estrutura.
-
-157
-00:11:38,489 --> 00:11:39,990
-Excelente.
-
-158
-00:11:40,190 --> 00:11:41,890
-Sr. Stockton. Rápido.
-
-159
-00:11:41,891 --> 00:11:43,790
-Por favor.
-Você não pode recusar.
-
-160
-00:11:44,090 --> 00:11:46,790
-Eu recusaria se
-tivesse que andar mais.
-
-161
-00:11:58,991 --> 00:12:00,791
-Que células curiosas.
-
-162
-00:12:00,891 --> 00:12:03,991
-Sua opinião sobre estrutura
-celular não me interessa.
-
-163
-00:12:04,891 --> 00:12:07,492
-Fale apenas se ver
-alguma coisa que reconheça.
-
-164
-00:12:10,392 --> 00:12:11,692
-Claro que sim.
-
-165
-00:12:11,992 --> 00:12:13,492
-Cristais de ferro.
-
-166
-00:12:23,093 --> 00:12:26,093
-Me perdoe se pareço alterado...
-
-167
-00:12:26,193 --> 00:12:27,493
-pelo o que acaba de me dizer...
-
-168
-00:12:27,593 --> 00:12:29,793
-isto prova a teoria na qual...
-
-169
-00:12:29,794 --> 00:12:31,993
-o meu trabalho foi
-baseado nos últimos dois anos.
-
-170
-00:12:32,293 --> 00:12:34,094
-E os seus olhos, rapaz...
-
-171
-00:12:34,194 --> 00:12:36,894
-me deram a pista
-para o meu único erro.
-
-172
-00:12:38,194 --> 00:12:40,394
-Estes olhos deficientes...
-
-173
-00:12:41,194 --> 00:12:43,794
-me atrasaram muito
-estes últimos meses.
-
-174
-00:12:43,894 --> 00:12:46,295
-Sem falar das implicações desta
-viagem em vocês, meus amigos.
-
-175
-00:12:46,395 --> 00:12:49,095
-Não, Dr. Thorkel,
-é um privilégio.
-
-176
-00:12:51,895 --> 00:12:54,395
-Me desculpem, mas agora
-preciso retornar ao meu trabalho.
-
-177
-00:12:54,396 --> 00:12:56,495
-Tenho alguns
-processos em andamento...
-
-178
-00:12:56,496 --> 00:12:58,495
-que exigem a minha
-atenção constante.
-
-179
-00:12:58,995 --> 00:13:02,596
-Espero encontrar um tempo,
-pela manhã, para me despedir.
-
-180
-00:13:02,696 --> 00:13:05,296
-Se não for possível,
-por favor...
-
-181
-00:13:05,297 --> 00:13:07,996
-aceitem agora a
-minha estima e gratidão.
-
-182
-00:13:08,296 --> 00:13:09,596
-Adeus.
-
-183
-00:13:10,796 --> 00:13:13,697
-Você está tentando insinuar
-que me fez viajar...
-
-184
-00:13:13,698 --> 00:13:18,097
-eu, o Dr. Rupert Bulfinch,
-15 mil Km, só para isso?
-
-185
-00:13:18,397 --> 00:13:20,297
-Eu não estou insinuando
-nada, Dr. Bulfinch.
-
-186
-00:13:20,597 --> 00:13:22,397
-Estou apenas
-expondo um fato.
-
-187
-00:13:22,497 --> 00:13:24,597
-Em um ponto muito
-crítico do meu trabalho...
-
-188
-00:13:24,697 --> 00:13:26,097
-vocês foram capazes
-de me oferecer...
-
-189
-00:13:26,098 --> 00:13:27,498
-o benefício de
-uma visão apurada.
-
-190
-00:13:27,598 --> 00:13:30,298
-No entanto, agora não
-preciso de mais da sua ajuda...
-
-191
-00:13:30,398 --> 00:13:32,598
-Permita-me que eu
-retorne ao meu trabalho.
-
-192
-00:13:32,698 --> 00:13:34,198
-É mais interessante.
-
-193
-00:13:34,199 --> 00:13:35,398
-Adeus.
-
-194
-00:14:00,100 --> 00:14:02,400
-Eu digo a você, não vou
-ser tratado desta forma.
-
-195
-00:14:02,401 --> 00:14:04,700
-Eu não serei tratado
-como um garoto de recados.
-
-196
-00:14:04,800 --> 00:14:06,800
-Se eu estivesse na
-sua posição, Dr. Bulfinch...
-
-197
-00:14:06,901 --> 00:14:09,401
-eu não daria um passo daqui
-até que o Dr. Thorkel desse...
-
-198
-00:14:09,501 --> 00:14:11,101
-uma explicação
-adequada.
-
-199
-00:14:11,201 --> 00:14:14,301
-Não posso me rebaixar
-à disputas indignas com ele.
-
-200
-00:14:14,401 --> 00:14:15,401
-Está certo.
-
-201
-00:14:15,501 --> 00:14:19,001
-Se ele não nos quer aqui,
-o que temos a fazer é ir embora.
-
-202
-00:14:19,002 --> 00:14:21,102
-Nem sequer
-se irrita com isso?
-
-203
-00:14:21,103 --> 00:14:22,702
-Para que?
-
-204
-00:14:23,802 --> 00:14:26,002
-Você percebe que após
-percorremos um longo caminho...
-
-205
-00:14:26,102 --> 00:14:29,102
-não temos a menor idéia no
-que o Dr. Thorkel está trabalhando?
-
-206
-00:14:29,202 --> 00:14:31,402
-Talvez vocês não
-saibam, mas eu sei.
-
-207
-00:14:32,102 --> 00:14:33,903
-É um segredo?
-
-208
-00:14:34,003 --> 00:14:35,403
-Não mais.
-
-209
-00:14:35,404 --> 00:14:37,703
-É uma mina, como
-eu sempre imaginei.
-
-210
-00:14:37,704 --> 00:14:39,203
-Tolice.
-
-211
-00:14:39,403 --> 00:14:41,103
-Pense como queira...
-
-212
-00:14:41,203 --> 00:14:42,703
-mas tem sido explorada...
-
-213
-00:14:42,803 --> 00:14:44,603
-desde que os incas
-construíram aquele muro.
-
-214
-00:14:44,703 --> 00:14:46,703
-Você está
-sonhando Steve.
-
-215
-00:14:46,803 --> 00:14:48,604
-Seja lá o que for Dr.
-Thorkel está fazendo aqui...
-
-216
-00:14:48,605 --> 00:14:50,404
-certamente
-não é mineração.
-
-217
-00:14:50,904 --> 00:14:53,304
-É difícil convencer
-vocês dois.
-
-218
-00:15:59,609 --> 00:16:00,709
-É profundo.
-
-219
-00:18:59,322 --> 00:19:01,122
-Sr. Stockton.
-
-220
-00:19:03,523 --> 00:19:04,823
-De onde isso vem?
-
-221
-00:19:04,923 --> 00:19:06,923
-Do depósito de minério
-atrás da casa Thorkel.
-
-222
-00:19:07,123 --> 00:19:08,423
-Isso não é mineral.
-
-223
-00:19:08,523 --> 00:19:10,423
-São fragmentos
-de osso.
-
-224
-00:19:10,723 --> 00:19:12,123
-Dicotylinae.
-
-225
-00:19:12,423 --> 00:19:13,423
-O quê?
-
-226
-00:19:13,523 --> 00:19:14,923
-Porco do mato nativo.
-
-227
-00:19:15,124 --> 00:19:18,624
-Peço-Ihe para certificar
-se são de origem recente.
-
-228
-00:19:18,724 --> 00:19:20,524
-Deve ser de um
-horrível e jovem porco.
-
-229
-00:19:20,624 --> 00:19:22,624
-Drª. Robinson,
-você está de parabéns.
-
-230
-00:19:22,724 --> 00:19:26,124
-Você está presente na identificação
-de uma espécie de porco anão...
-
-231
-00:19:26,224 --> 00:19:28,024
-até então desconhecida
-pela ciência.
-
-232
-00:19:28,124 --> 00:19:31,125
-Um animal com exatamente 10 cm
-de comprimento, em sua maturidade.
-
-233
-00:19:31,525 --> 00:19:35,325
-Vou chamá-lo
-Dicotylinae bulfinchi.
-
-234
-00:19:36,825 --> 00:19:39,725
-Você é muito rápido na
-atribuição de créditos, Dr. Bulfinch.
-
-235
-00:19:40,425 --> 00:19:42,325
-Posso ver as provas?
-
-236
-00:19:45,326 --> 00:19:48,326
-Inegavelmente um
-porco muito pequeno.
-
-237
-00:19:48,726 --> 00:19:51,426
-Inegavelmente, uma
-espécie absolutamente nova.
-
-238
-00:19:53,126 --> 00:19:57,127
-Estranho como o homem se
-entusiasma com os tamanho das coisas.
-
-239
-00:19:57,427 --> 00:20:00,927
-Como biólogo, você deve
-lembrar que a dimensão...
-
-240
-00:20:01,027 --> 00:20:02,427
-representa a principal
-diferença entre os mamíferos.
-
-241
-00:20:02,428 --> 00:20:05,627
-Na essência, um rato
-e uma baleia são idênticos.
-
-242
-00:20:05,727 --> 00:20:09,027
-De qualquer forma, estou
-satisfeito por não terem partido ainda.
-
-243
-00:20:09,028 --> 00:20:11,328
-Isto me dá
-a oportunidade...
-
-244
-00:20:11,329 --> 00:20:13,528
-de agradecer-Ihe mais
-uma vez antes que partam.
-
-245
-00:20:14,128 --> 00:20:15,928
-Nós não estamos
-partindo.
-
-246
-00:20:16,528 --> 00:20:18,428
-Mas eu não os
-quero aqui.
-
-247
-00:20:18,528 --> 00:20:21,528
-A descortesia, para não
-mencionar a falsidade total...
-
-248
-00:20:21,628 --> 00:20:23,528
-com o qual me tratou
-libera-me completamente...
-
-249
-00:20:23,529 --> 00:20:27,329
-de qualquer obrigação de
-considerar os seus desejos.
-
-250
-00:20:27,929 --> 00:20:30,229
-Eu tenho apenas
-um comentário a fazer.
-
-251
-00:20:30,429 --> 00:20:34,229
-Se ficar aqui mais uma hora,
-será por sua conta e risco.
-
-252
-00:20:37,730 --> 00:20:38,830
-Pinto.
-
-253
-00:20:39,830 --> 00:20:41,330
-É o meu cavalo, Pinto.
-
-254
-00:20:41,630 --> 00:20:43,230
-Ele voltou.
-
-255
-00:20:43,830 --> 00:20:45,030
-Pedro.
-
-256
-00:20:45,230 --> 00:20:46,330
-Mas este é Pinto.
-
-257
-00:20:46,430 --> 00:20:48,230
-Bobagem.
-Fique aqui.
-
-258
-00:20:57,631 --> 00:20:59,631
-Para mim parecia
-um cavalo.
-
-259
-00:21:08,932 --> 00:21:10,232
-Calma, garoto.
-
-260
-00:21:21,433 --> 00:21:23,433
-Firme, Pinto.
-
-261
-00:21:27,733 --> 00:21:29,833
-Calma, garoto, calma.
-
-262
-00:21:37,734 --> 00:21:39,134
-Firme, rapaz.
-
-263
-00:21:40,534 --> 00:21:41,834
-Calma, rapaz.
-
-264
-00:21:56,135 --> 00:21:59,136
-Você acha que é o fantasma
-de Pinto que ele quer pegar?
-
-265
-00:21:59,236 --> 00:22:01,136
-Ninguém aqui sabe
-uma resposta melhor.
-
-266
-00:22:01,236 --> 00:22:03,836
-Não, Pedro, eu
-receio que o Dr. Thorkel...
-
-267
-00:22:03,837 --> 00:22:06,436
-apenas imagina
-que tem algo na caixa.
-
-268
-00:22:06,936 --> 00:22:08,636
-Ele quer dizer
-que o seu chefe...
-
-269
-00:22:08,637 --> 00:22:10,336
-está cortando
-bonequinhas de papel.
-
-270
-00:22:10,636 --> 00:22:13,137
-O que ele deve
-fazer naquela casa?
-
-271
-00:22:15,337 --> 00:22:17,437
-O que é aquilo que
-nenhum de nós pode ver...
-
-272
-00:22:17,537 --> 00:22:18,937
-nem mesmo Pedro?
-
-273
-00:22:19,037 --> 00:22:20,837
-Quanto tempo
-você está aqui?
-
-274
-00:22:20,937 --> 00:22:22,237
-Cinco, seis meses.
-
-275
-00:22:22,238 --> 00:22:24,937
-Desde que eu cheguei
-aqui com os ratos.
-
-276
-00:22:25,037 --> 00:22:26,338
-Que ratos?
-
-277
-00:22:27,538 --> 00:22:30,738
-Quarenta ratos,
-trinta galinhas...
-
-278
-00:22:30,838 --> 00:22:34,238
-quatorze cães,
-sem contar o Tipo.
-
-279
-00:22:35,438 --> 00:22:40,039
-Sete gatos, além de Satanás.
-
-280
-00:22:42,639 --> 00:22:44,139
-O que aconteceu com
-todo esse zoológico?
-
-281
-00:22:44,239 --> 00:22:45,439
-Eu não sei.
-
-282
-00:22:45,440 --> 00:22:49,639
-Exceto pelas 5 galinhas, todos
-foram para casa do Sr. Doutor.
-
-283
-00:22:50,039 --> 00:22:52,640
-Eu não vejo nada de
-anormal em um biólogo...
-
-284
-00:22:52,641 --> 00:22:55,240
-que usa animais em
-seus experimentos.
-
-285
-00:22:55,640 --> 00:22:57,840
-O que acha que ele
-faz com eles, Doutor?
-
-286
-00:22:57,841 --> 00:22:59,240
-Eu não sei.
-
-287
-00:22:59,940 --> 00:23:01,140
-Mas Satanás...
-
-288
-00:23:01,240 --> 00:23:03,240
-A cada dia que passa
-fica mais gordo.
-
-289
-00:23:07,141 --> 00:23:09,241
-Vamos embalar tudo
-e dar o fora daqui.
-
-290
-00:23:21,142 --> 00:23:23,242
-Steve, venha aqui.
-
-291
-00:23:23,842 --> 00:23:24,842
-O que é?
-
-292
-00:23:24,942 --> 00:23:26,442
-Segure isso.
-
-293
-00:23:30,142 --> 00:23:31,742
-O que é isso?
-
-294
-00:23:33,043 --> 00:23:34,243
-O que você
-acha que é?
-
-295
-00:23:34,343 --> 00:23:37,043
-Eu sei o que é.
-Isto é pechblenda.
-
-296
-00:23:37,143 --> 00:23:39,443
-O material de
-onde o rádio vem?
-
-297
-00:23:39,444 --> 00:23:40,443
-Minério de urânio...
-
-298
-00:23:41,643 --> 00:23:42,643
-Eles vão te ouvir.
-
-299
-00:23:42,743 --> 00:23:45,443
-Este é aquele que
-você expôs a 3 metros.
-
-300
-00:23:46,644 --> 00:23:48,544
-Completamente embaçado.
-
-301
-00:23:51,644 --> 00:23:54,144
-Dra. Robinson,
-este minério...
-
-302
-00:23:54,145 --> 00:23:56,744
-contém uma proporção
-sem precedentes de rádio.
-
-303
-00:23:58,144 --> 00:23:59,745
-É melhor nos
-apressarmos.
-
-304
-00:24:06,645 --> 00:24:10,045
-Dra. Robinson e eu
-reconsideramos a situação...
-
-305
-00:24:10,046 --> 00:24:13,946
-e decidimos ficar aqui
-para cuidar do Dr. Thorkel.
-
-306
-00:24:15,246 --> 00:24:16,546
-Você é importante
-em outros lugares.
-
-307
-00:24:16,547 --> 00:24:18,246
-Acho que Bill e eu é que
-deveríamos ficar.
-
-308
-00:24:18,346 --> 00:24:20,446
-Mas nós estamos melhor
-equipados para a tarefa.
-
-309
-00:24:20,447 --> 00:24:23,146
-Alem disso, ele
-é um colega cientista.
-
-310
-00:24:24,746 --> 00:24:27,347
-Por que não paramos de
-tentar enganar um ao outro?
-
-311
-00:24:31,047 --> 00:24:33,647
-Que pena que você
-reconheceu o minério.
-
-312
-00:24:33,947 --> 00:24:35,547
-O mesmo para você.
-
-313
-00:24:35,747 --> 00:24:37,147
-Mas eu acho que
-alguns milhões de dólares...
-
-314
-00:24:37,148 --> 00:24:38,547
-dividido por quatro
-não é nada mau.
-
-315
-00:24:38,548 --> 00:24:40,248
-Mas não é só
-pelo dinheiro.
-
-316
-00:24:40,348 --> 00:24:41,948
-Pensamos como
-isso seria importante...
-
-317
-00:24:41,949 --> 00:24:43,548
-para os laboratórios
-clínicos e de pesquisa.
-
-318
-00:24:43,648 --> 00:24:44,848
-Claro, com seus
-nomes escritos em...
-
-319
-00:24:44,849 --> 00:24:45,948
-letras bem grandes
-na porta principal.
-
-320
-00:24:46,048 --> 00:24:47,748
-Quietos, o Pedro
-vem vindo.
-
-321
-00:24:49,748 --> 00:24:51,348
-Eu não vejo razão...
-
-322
-00:24:51,349 --> 00:24:53,048
-para que nos comportemos
-como conspiradores.
-
-323
-00:24:53,148 --> 00:24:54,949
-Não temos nada
-a esconder.
-
-324
-00:24:55,049 --> 00:24:57,349
-Só devemos decidir se vamos
-deixar nas mãos de um louco...
-
-325
-00:24:57,350 --> 00:25:00,849
-algo tão importante
-para a humanidade.
-
-326
-00:25:03,649 --> 00:25:05,649
-Ele está lá fora
-trabalhando no guincho.
-
-327
-00:25:05,650 --> 00:25:07,250
-É agora ou nunca.
-
-328
-00:25:58,853 --> 00:26:00,553
-Pinto. Ele esteve aqui.
-
-329
-00:26:03,954 --> 00:26:05,954
-Não tem nenhum
-cavalo aqui agora.
-
-330
-00:26:16,555 --> 00:26:19,255
-Ele trouxe muitos
-óculos extras.
-
-331
-00:26:20,755 --> 00:26:22,255
-Suas anotações.
-
-332
-00:26:28,256 --> 00:26:29,556
-É o Pinto.
-
-333
-00:26:29,656 --> 00:26:32,656
-Ele não está aqui, Pedro.
-O som veio de fora.
-
-334
-00:26:32,756 --> 00:26:34,356
-Então...
-
-335
-00:26:34,456 --> 00:26:36,756
-O Dr. Thorkel acredita...
-
-336
-00:26:36,757 --> 00:26:39,156
-que é capaz de reduzir
-o tamanho de um cavalo.
-
-337
-00:26:41,857 --> 00:26:43,557
-Bandidos. Ladrões.
-
-338
-00:26:44,457 --> 00:26:46,257
-O que vocês estão
-fazendo em minha casa?
-
-339
-00:26:46,258 --> 00:26:48,257
-Vocês não tem sequer o
-direito de estar no meu campo.
-
-340
-00:26:48,258 --> 00:26:49,257
-Não são mais do
-que meus empregados...
-
-341
-00:26:49,258 --> 00:26:50,257
-que eu já tinha
-dispensado...
-
-342
-00:26:50,357 --> 00:26:51,757
-e pedido para partirem.
-
-343
-00:26:51,857 --> 00:26:53,457
-Agora vocês invadem
-o meu laboratório.
-
-344
-00:26:53,557 --> 00:26:55,958
-Saiam!
-Saiam imediatamente!
-
-345
-00:26:56,558 --> 00:26:58,258
-Somos seus
-amigos, Doutor.
-
-346
-00:26:58,358 --> 00:26:59,758
-Nós só queremos
-ajudá-lo.
-
-347
-00:26:59,759 --> 00:27:02,258
-Eu sei que tipo de
-amigos vocês são.
-
-348
-00:27:02,259 --> 00:27:03,758
-Eu sei que você quer.
-
-349
-00:27:03,858 --> 00:27:05,658
-Você entrou aqui para
-aprender o que eu estou fazendo...
-
-350
-00:27:05,758 --> 00:27:08,159
-para se aproveitarem
-do meu trabalho.
-
-351
-00:27:08,259 --> 00:27:12,159
-Mas nego-me a compartilhá-lo
-Não preciso de ajuda.
-
-352
-00:27:12,559 --> 00:27:14,059
-Minhas anotações!
-
-353
-00:27:16,459 --> 00:27:18,259
-Não podemos prendê-lo
-em algum lugar?
-
-354
-00:27:22,060 --> 00:27:23,460
-Sinto muito.
-
-355
-00:27:26,860 --> 00:27:28,960
-Percebo que
-me precipitei.
-
-356
-00:27:31,460 --> 00:27:33,360
-Tenho trabalhado
-muito duro ultimamente.
-
-357
-00:27:33,361 --> 00:27:36,261
-e talvez tenha perdido de
-vista os verdadeiros valores.
-
-358
-00:27:45,361 --> 00:27:47,461
-Será que podem me
-perdoar, meus amigos...
-
-359
-00:27:47,462 --> 00:27:49,762
-se como penitência,
-eu explicar para vocês..
-
-360
-00:27:49,862 --> 00:27:52,062
-o que estou
-tentando conseguir?
-
-361
-00:27:52,162 --> 00:27:53,162
-Dou a minha palavra.
-
-362
-00:27:53,262 --> 00:27:57,062
-Prometo que não me
-aproveitarei da sua confiança.
-
-363
-00:27:57,162 --> 00:27:58,462
-Obrigado.
-
-364
-00:28:03,163 --> 00:28:05,163
-Todos aqueles
-que, no passado...
-
-365
-00:28:05,164 --> 00:28:07,263
-escavaram aqui
-procurando ouro, morreram...
-
-366
-00:28:07,363 --> 00:28:10,963
-sem saber que tinham descoberto
-algo de valor muito maior.
-
-367
-00:28:11,063 --> 00:28:13,063
-Um depósito do mais
-rico minério de rádio...
-
-368
-00:28:13,064 --> 00:28:14,963
-já conhecido pelo homem.
-
-369
-00:28:16,464 --> 00:28:18,864
-Vejo que você
-já está ciente disso.
-
-370
-00:28:18,865 --> 00:28:20,964
-Quanto já
-extraiu até agora?
-
-371
-00:28:20,965 --> 00:28:25,564
-Até agora, nada
-mais do que preciso.
-
-372
-00:28:26,564 --> 00:28:29,065
-Este tubo é
-o meu canal condutor.
-
-373
-00:28:34,265 --> 00:28:38,265
-O concentrador desce pelo
-poço até o depósito principal.
-
-374
-00:28:38,365 --> 00:28:40,865
-Com ele, eu recolho e conduzo,
-sob o meu controle...
-
-375
-00:28:40,965 --> 00:28:44,066
-a imensa força radioativa
-da própria natureza.
-
-376
-00:28:44,067 --> 00:28:45,266
-Impossível.
-
-377
-00:28:45,366 --> 00:28:46,766
-Impossível?
-
-378
-00:28:48,666 --> 00:28:50,766
-Certa vez, Benjamin Franklin...
-
-379
-00:28:50,767 --> 00:28:52,966
-com uma pipa, atraiu um
-raio em uma tempestade.
-
-380
-00:28:52,967 --> 00:28:56,467
-Da minha maneira eu
-também atraio a força cósmica...
-
-381
-00:28:56,567 --> 00:28:58,267
-do seio da Terra.
-
-382
-00:28:58,367 --> 00:28:59,567
-Então o que faz com ela?
-
-383
-00:28:59,668 --> 00:29:01,267
-Vou Ihes mostrar.
-
-384
-00:29:07,267 --> 00:29:09,067
-Este é o meu condensador.
-
-385
-00:29:10,168 --> 00:29:11,168
-Venha.
-
-386
-00:29:22,068 --> 00:29:23,569
-Notem que é semelhante,
-na concepção...
-
-387
-00:29:23,570 --> 00:29:24,969
-aos instrumentos
-utilizados...
-
-388
-00:29:25,069 --> 00:29:27,769
-nos hospitais para atacar
-tecidos cancerígenos.
-
-389
-00:29:27,770 --> 00:29:29,569
-Porem infinitamente
-mais poderoso,
-
-390
-00:29:29,669 --> 00:29:32,669
-Sou capaz de usá-lo com tal
-precisão que posso tratar a asa...
-
-391
-00:29:32,769 --> 00:29:34,369
-de uma borboleta
-sem feri-la.
-
-392
-00:29:34,869 --> 00:29:38,970
-Se examinarem de perto, notarão
-a simplicidade da sua construção.
-
-393
-00:29:42,470 --> 00:29:43,470
-Pinto.
-
-394
-00:29:46,370 --> 00:29:48,770
-Pedro.
-Venha aqui.
-
-395
-00:29:55,771 --> 00:29:58,671
-Venha, Pedro.
-Quero que veja isso também.
-
-396
-00:30:52,175 --> 00:30:53,975
-Não seja impaciente.
-
-397
-00:30:53,976 --> 00:30:55,875
-Eles estão no porão,
-mas você não poderá vê-los..
-
-398
-00:30:55,975 --> 00:30:57,476
-até que recuperem
-a consciência.
-
-399
-00:31:08,376 --> 00:31:11,577
-Posso ouvir o Dr. Bulfinch
-dizendo: Impossível...
-
-400
-00:31:11,578 --> 00:31:14,977
-quando acordar e notar que
-está vestido só com um lenço.
-
-401
-00:31:17,777 --> 00:31:19,577
-Você pode estar certo.
-
-402
-00:31:21,677 --> 00:31:23,377
-Está quase na hora.
-
-403
-00:32:31,483 --> 00:32:32,583
-Não.
-
-404
-00:32:35,783 --> 00:32:38,183
-Não, você não deve
-assustá-los.
-
-405
-00:32:44,383 --> 00:32:47,184
-Venham meus amiguinhos.
-Vocês não têm o que temer.
-
-406
-00:32:48,784 --> 00:32:51,284
-As cordas vocais
-estão perfeitas.
-
-407
-00:32:51,285 --> 00:32:53,184
-Isso é um bom sinal.
-
-408
-00:32:53,584 --> 00:32:55,584
-Você não tem febre?
-
-409
-00:32:56,384 --> 00:33:01,385
-Dr. Bulfinch, poderia tomar
-o pulso dos seus companheiros?
-
-410
-00:33:02,485 --> 00:33:04,185
-Como em todas as
-criaturas pequenas...
-
-411
-00:33:04,285 --> 00:33:06,685
-a primeira reação é
-tentar escapar.
-
-412
-00:33:08,885 --> 00:33:10,285
-Bem, há a escada.
-
-413
-00:33:10,385 --> 00:33:12,086
-Fujam se quiserem.
-
-414
-00:33:27,587 --> 00:33:32,487
-Não, estes ratos não são para você.
-Pelo menos, por enquanto.
-
-415
-00:33:49,888 --> 00:33:52,589
-Coordenação muscular,
-perfeita.
-
-416
-00:33:53,389 --> 00:33:56,189
-Reflexo das ações, perfeito.
-
-417
-00:33:57,189 --> 00:33:59,889
-Estrutura física, perfeita.
-
-418
-00:34:15,790 --> 00:34:17,790
-Não há necessidade
-de se esconderem.
-
-419
-00:34:17,791 --> 00:34:19,791
-Eu guardei o gato.
-
-420
-00:34:44,992 --> 00:34:46,793
-Veja, eu estou sentado.
-
-421
-00:34:47,293 --> 00:34:49,093
-Eu não os
-ameaço em nada.
-
-422
-00:34:49,193 --> 00:34:50,893
-Venham para
-onde eu posso vê-los.
-
-423
-00:34:51,593 --> 00:34:53,493
-Gosto de olhar
-para vocês.
-
-424
-00:34:57,393 --> 00:34:59,193
-Como vocês
-são medrosos!
-
-425
-00:34:59,494 --> 00:35:01,894
-Não foi só o tamanho
-de vocês que mudou.
-
-426
-00:35:01,994 --> 00:35:03,594
-Esqueceram-se
-de que tentaram...
-
-427
-00:35:03,595 --> 00:35:05,094
-se apoderar das
-minhas descobertas?
-
-428
-00:35:06,494 --> 00:35:09,194
-Já perderam todo
-o interesse?
-
-429
-00:35:10,494 --> 00:35:12,895
-Onde está espírito
-científico de vocês?
-
-430
-00:35:22,095 --> 00:35:23,595
-Cheguem mais perto.
-
-431
-00:35:23,795 --> 00:35:25,395
-Não tenham medo.
-
-432
-00:35:30,596 --> 00:35:31,596
-Qual é o problema?
-
-433
-00:35:31,696 --> 00:35:33,196
-Vocês não podem falar?
-
-434
-00:35:33,296 --> 00:35:35,796
-Sim, eu posso falar.
-
-435
-00:35:36,396 --> 00:35:38,696
-E com uma voz
-natural, perfeita.
-
-436
-00:35:39,296 --> 00:35:41,597
-Mas venham, você
-não estão curiosos?
-
-437
-00:35:42,097 --> 00:35:44,197
-Não tem perguntas
-a fazer?
-
-438
-00:35:44,198 --> 00:35:45,497
-Apenas uma.
-
-439
-00:35:46,397 --> 00:35:48,697
-Como pode
-a Providência permitir...
-
-440
-00:35:48,698 --> 00:35:50,997
-a existência
-de tal monstruosidade?
-
-441
-00:35:53,898 --> 00:35:56,898
-Maravilhoso.
-Exatamente o mesmo caráter.
-
-442
-00:35:57,198 --> 00:36:00,698
-O sistema nervoso e o cérebro
-não foram danificados.
-
-443
-00:36:02,698 --> 00:36:05,998
-Agora, meus amiguinhos,
-quero verificar de novo...
-
-444
-00:36:06,098 --> 00:36:07,999
-o peso e
-tamanho de vocês.
-
-445
-00:36:13,499 --> 00:36:17,399
-Mas, primeiro, permitam-me
-que recorra a um estimulante.
-
-446
-00:36:24,300 --> 00:36:25,600
-Desculpe-me.
-
-447
-00:36:25,700 --> 00:36:28,300
-Mas, durante o período
-da transformação de vocês...
-
-448
-00:36:28,400 --> 00:36:32,500
-Eu não dormi nem uma hora,
-nem um momento.
-
-449
-00:36:57,502 --> 00:36:59,302
-Deveriam
-estar orgulhosos.
-
-450
-00:37:00,603 --> 00:37:04,203
-Eu tenho sido capaz de alterar
-o tamanho de muitos organismos...
-
-451
-00:37:05,003 --> 00:37:07,503
-mas vocês são os
-primeiros espécimes...
-
-452
-00:37:07,504 --> 00:37:09,903
-a sobreviverem por mais
-do que algumas horas.
-
-453
-00:37:11,903 --> 00:37:14,204
-Eu repito, vocês
-deveriam estar orgulhosos.
-
-454
-00:37:14,304 --> 00:37:17,004
-E consegui graças
-a vocês.
-
-455
-00:37:18,104 --> 00:37:20,804
-Vocês me deram a pista
-do meu único erro.
-
-456
-00:37:25,104 --> 00:37:27,104
-Os cristais de ferro.
-
-457
-00:37:28,405 --> 00:37:31,105
-Identificando
-os cristais de ferro.
-
-458
-00:37:34,705 --> 00:37:38,605
-Agora eu posso controlar
-a vida absolutamente.
-
-459
-00:40:26,018 --> 00:40:27,118
-Satanás!
-
-460
-00:41:10,221 --> 00:41:12,221
-Esse é o meu cachorro.
-
-461
-00:41:12,222 --> 00:41:13,821
-Um grande cachorro!
-
-462
-00:41:13,822 --> 00:41:14,821
-Tipo?
-
-463
-00:41:14,921 --> 00:41:17,022
-Ele é magnífico.
-
-464
-00:41:19,822 --> 00:41:20,822
-Tipo.
-
-465
-00:41:28,022 --> 00:41:32,023
-Tipo, sou eu, Pedro.
-
-466
-00:41:39,723 --> 00:41:43,524
-Tipo, olha para mim.
-Sou eu, Pedro.
-
-467
-00:41:43,924 --> 00:41:47,324
-Tipo, você não se lembra
-quando caçávamos?
-
-468
-00:41:47,424 --> 00:41:48,424
-Lembra?
-
-469
-00:41:51,724 --> 00:41:54,724
-Este é o meu cachorro,
-mas quem é Pedro?
-
-470
-00:42:15,726 --> 00:42:17,626
-Você estão
-muito quietos.
-
-471
-00:42:18,226 --> 00:42:19,726
-Isso é bom.
-
-472
-00:42:23,927 --> 00:42:25,227
-Agora, saiam.
-
-473
-00:42:25,327 --> 00:42:26,927
-Quero vê-los novamente.
-
-474
-00:43:32,732 --> 00:43:36,932
-Eu admito que teoricamente é
-possível quebrar o tecido orgânico...
-
-475
-00:43:37,032 --> 00:43:39,432
-submetendo-o à
-radioatividade...
-
-476
-00:43:39,532 --> 00:43:42,432
-mas o Dr. Thorkel está
-errado sobre todo o resto.
-
-477
-00:43:42,532 --> 00:43:45,333
-Um campo radioativo
-não pode ser canalizado.
-
-478
-00:43:45,433 --> 00:43:47,333
-Ele está absolutamente
-errado.
-
-479
-00:43:48,033 --> 00:43:50,233
-Você pode estar
-certo, Dr. Bulfinch.
-
-480
-00:43:51,533 --> 00:43:53,633
-Talvez vocês não
-sejam pequenos.
-
-481
-00:43:53,733 --> 00:43:55,833
-Talvez todas as outras
-coisas é que sejam grandes.
-
-482
-00:44:10,334 --> 00:44:12,735
-Meus amiguinhos,
-estou muito orgulhoso de vocês.
-
-483
-00:44:12,835 --> 00:44:14,835
-Vocês são
-muitos engenhosos.
-
-484
-00:44:14,935 --> 00:44:17,835
-Agora, voltem.
-Devemos retomar os exames.
-
-485
-00:44:19,435 --> 00:44:20,635
-Permaneçam aqui.
-
-486
-00:44:20,735 --> 00:44:22,435
-Tentarei argumentar
-com ele.
-
-487
-00:44:34,736 --> 00:44:36,536
-Entre, Dr. Bulfinch.
-
-488
-00:44:36,636 --> 00:44:39,037
-Ficarei feliz por
-recebê-lo primeiro.
-
-489
-00:44:39,137 --> 00:44:41,437
-Eu certamente
-não entrarei.
-
-490
-00:44:41,537 --> 00:44:42,537
-O quê?
-
-491
-00:44:42,637 --> 00:44:44,237
-Um motim?
-
-492
-00:44:45,037 --> 00:44:49,437
-Eu exijo que nos traga as
-mulas e nos devolva à civilização.
-
-493
-00:44:49,537 --> 00:44:51,037
-Em uma sacola?
-
-494
-00:44:51,337 --> 00:44:55,138
-Que posição indigna
-para o grande Dr. Bulfinch.
-
-495
-00:44:55,538 --> 00:44:59,338
-Alem disso, as mulas já
-foram devolvidas à civilização.
-
-496
-00:44:59,638 --> 00:45:02,438
-Então, devemos nos
-considerar seus prisioneiros?
-
-497
-00:45:02,838 --> 00:45:07,239
-Digamos que vocês são
-convidados do meu laboratório.
-
-498
-00:45:08,039 --> 00:45:09,839
-Então, somos prisioneiros.
-
-499
-00:45:10,139 --> 00:45:11,939
-Prisioneiros da
-caverna do Cyclops.
-
-500
-00:45:12,039 --> 00:45:13,539
-Cyclops?
-
-501
-00:45:13,639 --> 00:45:15,539
-Está fazendo referência
-a minha visão?
-
-502
-00:45:16,039 --> 00:45:18,039
-Não, ao seu intelecto.
-
-503
-00:45:18,139 --> 00:45:21,240
-Cyclops, também pensava que
-tamanho e força eram suficientes.
-
-504
-00:45:21,340 --> 00:45:23,540
-Ele era um sujeito
-muito ignorante.
-
-505
-00:45:23,541 --> 00:45:26,840
-Enquanto Ulisses possuía
-uma mente muito superior.
-
-506
-00:45:31,140 --> 00:45:32,641
-Olhe para trás, Ulysses.
-
-507
-00:45:32,642 --> 00:45:34,641
-Uma galinha está
-a ponto de bicar você.
-
-508
-00:45:36,341 --> 00:45:38,541
-Vá embora ave ridícula.
-
-509
-00:45:48,242 --> 00:45:50,242
-Chega desta bobagem.
-Venha cá.
-
-510
-00:45:50,342 --> 00:45:53,042
-Dr. Thorkel, eu não vou,
-sob quaisquer circunstâncias...
-
-511
-00:45:53,142 --> 00:45:55,942
-cooperar com você.
-Em nada.
-
-512
-00:45:56,042 --> 00:45:58,542
-Venha aqui de uma vez.
-Isto é uma ordem.
-
-513
-00:45:58,543 --> 00:46:01,543
-Eu não vou.
-Eu não vou.
-
-514
-00:47:23,449 --> 00:47:25,149
-Dr. Thorkel, eu o avisei.
-
-515
-00:47:25,249 --> 00:47:27,249
-Não vou tolerar
-este ultraje.
-
-516
-00:47:27,349 --> 00:47:29,349
-Acalme-se, professor.
-
-517
-00:47:29,749 --> 00:47:32,549
-Me surpreende que um
-cientista da sua categoria...
-
-518
-00:47:32,550 --> 00:47:35,150
-se deixe levar por
-explosões emocionais.
-
-519
-00:47:40,650 --> 00:47:44,550
-Você se encarregará de
-mostrar ao mundo o meu trabalho.
-
-520
-00:47:44,850 --> 00:47:46,050
-Os seus crimes.
-
-521
-00:47:46,151 --> 00:47:49,751
-O mundo Ihe parecerá muito
-grande com estas pernas tão curtas.
-
-522
-00:47:54,351 --> 00:47:56,451
-Um pouco mais reto,
-por favor.
-
-523
-00:48:00,652 --> 00:48:02,552
-Obrigado, doutor.
-
-524
-00:48:09,552 --> 00:48:11,752
-Doutor Thorkel,
-eu exijo a sua atenção.
-
-525
-00:48:13,252 --> 00:48:16,553
-Exatamente 33,65 cm
-
-526
-00:48:17,253 --> 00:48:19,653
-Agora, doutor,
-suba na balança.
-
-527
-00:48:21,153 --> 00:48:22,953
-Obrigado.
-
-528
-00:48:23,053 --> 00:48:25,053
-Vejo que você se
-antecipou aos meus desejos.
-
-529
-00:48:25,154 --> 00:48:27,354
-Isto, certamente, não
-era minha intenção.
-
-530
-00:48:40,054 --> 00:48:42,655
-Alguma coisa
-está errada?
-
-531
-00:48:42,955 --> 00:48:44,355
-Você está surpreso.
-
-532
-00:48:44,455 --> 00:48:45,655
-Fique quieto.
-
-533
-00:48:49,055 --> 00:48:51,955
-Então afinal a grande
-mente não é infalível.
-
-534
-00:48:54,956 --> 00:48:55,956
-Fique aqui.
-
-535
-00:48:56,056 --> 00:48:57,556
-Eu não.
-
-536
-00:48:57,656 --> 00:48:58,856
-Fique aqui.
-
-537
-00:48:58,857 --> 00:49:00,556
-Eu não.
-
-538
-00:49:41,759 --> 00:49:43,359
-Que pena!.
-
-539
-00:49:43,459 --> 00:49:46,259
-Doutor, que erro
-cometeu agora?
-
-540
-00:49:46,260 --> 00:49:48,460
-É a natureza que está
-cometendo o erro.
-
-541
-00:49:48,560 --> 00:49:49,860
-Você está se
-desenvolvendo exatamente...
-
-542
-00:49:49,861 --> 00:49:51,160
-como se fosse
-um organismo jovem...
-
-543
-00:49:51,260 --> 00:49:52,960
-em vez de um
-organismo maduro.
-
-544
-00:49:53,060 --> 00:49:55,060
-Você está começando
-a crescer.
-
-545
-00:49:55,061 --> 00:49:56,360
-Crescendo?
-
-546
-00:49:56,460 --> 00:49:57,560
-Quão rápido?
-
-547
-00:49:57,660 --> 00:50:00,460
-Até agora, o crescimento
-é quase imperceptível.
-
-548
-00:50:03,561 --> 00:50:05,461
-Mais tarde, pode acelerar.
-
-549
-00:50:05,861 --> 00:50:08,461
-Então será preciso
-refazer os seus cálculos.
-
-550
-00:50:09,361 --> 00:50:11,561
-Estou ciente desse fato.
-
-551
-00:50:11,661 --> 00:50:14,461
-E isto é o que é
-mais lamentável.
-
-552
-00:50:24,062 --> 00:50:26,062
-O que você vai fazer?
-
-553
-00:50:27,562 --> 00:50:28,763
-Como você e
-os seus companheiros...
-
-554
-00:50:28,764 --> 00:50:30,063
-recuperarão
-o tamanho normal...
-
-555
-00:50:30,064 --> 00:50:32,763
-voltarão a interferir
-no meu trabalho...
-
-556
-00:50:32,863 --> 00:50:35,863
-e isso é algo que eu
-não posso permitir.
-
-557
-00:50:47,564 --> 00:50:48,964
-Então estavam me
-espionando.
-
-558
-00:52:09,070 --> 00:52:10,870
-É melhor voltarem.
-
-559
-00:52:10,970 --> 00:52:13,670
-Vocês nunca viverão
-meia hora na floresta.
-
-560
-00:54:34,281 --> 00:54:37,381
-Olhe, não é a canoa sobre
-a qual tinha-nos falado?
-
-561
-00:54:37,382 --> 00:54:40,681
-É. Venham. Nos ajudará
-a sair deste lugar.
-
-562
-00:54:51,982 --> 00:54:53,582
-É um pouco grande, não é?
-
-563
-00:54:53,583 --> 00:54:55,282
-Antes era muito pequena.
-
-564
-00:54:55,382 --> 00:54:57,282
-Eu remava assim.
-
-565
-00:54:58,083 --> 00:54:59,683
-Bem, e agora
-como faremos?
-
-566
-00:54:59,783 --> 00:55:01,383
-Para mim qualquer
-coisa serve...
-
-567
-00:55:01,483 --> 00:55:03,983
-desde que me leve para bem
-longe daquele cientista maluco.
-
-568
-00:55:04,083 --> 00:55:07,783
-Nós não podemos continuar,
-assim, tendo medo de tudo.
-
-569
-00:55:07,883 --> 00:55:09,983
-Esta canoa é a nossa
-única chance para fugir.
-
-570
-00:55:10,083 --> 00:55:12,284
-Vou empurrá-la.
-
-571
-00:55:22,084 --> 00:55:24,084
-Ela é muito
-grande mesmo.
-
-572
-00:55:24,684 --> 00:55:26,485
-Você é o engenheiro...
-
-573
-00:55:26,585 --> 00:55:28,285
-Encontre uma maneira
-de colocá-la na água.
-
-574
-00:55:28,385 --> 00:55:30,585
-Você é uma cientista,
-o que sugere?
-
-575
-00:55:30,685 --> 00:55:33,185
-Bem, as pessoas movem casas
-e muitas coisas pesadas.
-
-576
-00:55:33,285 --> 00:55:35,785
-Não utilizam as
-alavancas e guinchos?
-
-577
-00:56:50,591 --> 00:56:51,791
-Companhia perfeita.
-
-578
-00:56:51,891 --> 00:56:53,791
-Logo agora
-que tudo corria bem.
-
-579
-00:56:56,591 --> 00:56:58,091
-Se tivéssemos
-mais madeira.
-
-580
-00:56:58,092 --> 00:57:00,092
-Ali tem um monte.
-
-581
-00:57:00,093 --> 00:57:01,692
-Pegue você mesmo.
-
-582
-00:57:02,792 --> 00:57:04,892
-Tem alguma
-idéia brilhante?
-
-583
-00:57:07,292 --> 00:57:10,492
-Você consegue pegar a madeira
-se eu desviar a sua atenção?
-
-584
-00:57:10,892 --> 00:57:13,993
-Irmã, estou começando a
-admirar esta mente científica.
-
-585
-00:57:15,893 --> 00:57:17,193
-Não chegue muito perto.
-
-586
-00:57:17,293 --> 00:57:18,793
-Peguem a madeira.
-
-587
-00:57:43,795 --> 00:57:44,895
-Segure.
-
-588
-00:57:44,896 --> 00:57:46,195
-Com prazer.
-
-589
-00:57:55,996 --> 00:57:58,296
-Agora! Empurrem.
-
-590
-00:58:25,698 --> 00:58:27,198
-Esse crocodilo não
-era tão corajoso.
-
-591
-00:58:27,298 --> 00:58:29,298
-Verdade.
-Ele nunca mais vai voltar.
-
-592
-00:58:30,698 --> 00:58:31,998
-Sabem o que eu acho?
-
-593
-00:58:32,099 --> 00:58:34,699
-Depois de Iançarmos a canoa,
-devemos instalar uma vela.
-
-594
-00:58:34,799 --> 00:58:36,799
-Com uma vela e um leme,
-podemos ir a qualquer lugar.
-
-595
-00:58:36,899 --> 00:58:37,999
-Claro!
-
-596
-00:59:08,001 --> 00:59:09,101
-Rápido, para a caverna.
-
-597
-00:59:09,201 --> 00:59:11,501
-Não, não, não. É o meu
-cachorro, ele nos seguiu.
-
-598
-00:59:12,901 --> 00:59:14,502
-Para o capim.
-
-599
-00:59:31,603 --> 00:59:33,203
-Fora!
-
-600
-00:59:34,103 --> 00:59:35,203
-Fiquem aqui.
-
-601
-00:59:35,204 --> 00:59:37,203
-Tipo, vai me seguir.
-
-602
-01:00:25,107 --> 01:00:26,107
-Tipo.
-
-603
-01:00:26,207 --> 01:00:27,207
-Fora!
-
-604
-01:00:43,908 --> 01:00:45,608
-Eu sei que vocês
-estão aqui.
-
-605
-01:00:52,709 --> 01:00:54,509
-Que ingenuidade.
-
-606
-01:00:54,510 --> 01:00:56,609
-Estou muito
-orgulhoso de vocês.
-
-607
-01:01:22,911 --> 01:01:25,411
-Então, vocês estão
-determinados a se esconderem.
-
-608
-01:04:58,727 --> 01:05:00,227
-Agora é nossa chance.
-
-609
-01:05:00,327 --> 01:05:02,727
-Depressa, Bill,
-antes de ele volte.
-
-610
-01:05:05,128 --> 01:05:07,428
-Qual é o problema
-com você?
-
-611
-01:05:07,528 --> 01:05:10,228
-Dr. Bulfinch e Pedro pararam
-de correr, não é?
-
-612
-01:05:10,328 --> 01:05:12,328
-Bem, aqui é onde
-eu vou parar.
-
-613
-01:05:13,528 --> 01:05:15,128
-O que você vai fazer?
-
-614
-01:05:15,228 --> 01:05:17,329
-Não sei ainda,
-mas eu ficarei aqui.
-
-615
-01:05:17,429 --> 01:05:19,429
-Vou encontrar
-uma maneira matá-lo.
-
-616
-01:05:19,529 --> 01:05:21,629
-Estou cansado
-de fugir.
-
-617
-01:05:22,729 --> 01:05:24,629
-Cuide dela, Steve.
-
-618
-01:05:24,630 --> 01:05:26,929
-Você mesmo
-pode fazer isso Bill.
-
-619
-01:05:27,629 --> 01:05:29,429
-Ficarei com você.
-
-620
-01:05:29,729 --> 01:05:31,730
-Você não acham que
-eu vou ficar sozinho...
-
-621
-01:05:31,731 --> 01:05:33,830
-com este tamanho, não é?
-
-622
-01:05:49,931 --> 01:05:51,931
-O que te faz pensar que ele
-vai deitar quando chegar?
-
-623
-01:05:52,031 --> 01:05:53,431
-Lembra-se de como
-ele parecia cansado?
-
-624
-01:05:53,432 --> 01:05:54,731
-Ele está com muito sono.
-
-625
-01:05:54,831 --> 01:05:56,331
-Espero que esteja certo.
-
-626
-01:05:56,431 --> 01:05:58,132
-Um pouco para a direita.
-
-627
-01:06:00,832 --> 01:06:02,032
-Está na mira.
-
-628
-01:06:02,532 --> 01:06:03,932
-Aqui vamos nós.
-
-629
-01:06:04,032 --> 01:06:05,632
-Diretamente na orelha.
-
-630
-01:10:13,350 --> 01:10:14,551
-Cuidado, Bill!
-
-631
-01:10:18,851 --> 01:10:21,351
-Então vocês voltaram.
-
-632
-01:10:24,151 --> 01:10:25,651
-Estão aqui.
-
-633
-01:10:36,852 --> 01:10:39,152
-Se atrevem a atacar-me?
-
-634
-01:10:42,153 --> 01:10:45,153
-Vocês cometeram um
-grande erro, entenderam?
-
-635
-01:10:48,054 --> 01:10:52,053
-O Dr. Bulfinch entendeu porque
-Ihe expliquei antes que morresse.
-
-636
-01:10:53,253 --> 01:10:56,954
-Agora vou dizer porque
-vocês também morrerão.
-
-637
-01:10:57,354 --> 01:10:58,954
-Vocês estão em crescimento.
-
-638
-01:10:59,154 --> 01:11:01,954
-Em breve voltarão aos
-seus tamanhos normais.
-
-639
-01:11:02,354 --> 01:11:05,554
-Se continuassem escondidos,
-vocês poderiam ser salvos.
-
-640
-01:11:05,654 --> 01:11:07,254
-Mas agora é tarde demais.
-
-641
-01:11:07,354 --> 01:11:10,155
-Vocês estão presos neste quarto
-e nunca mais vão sair.
-
-642
-01:11:10,255 --> 01:11:12,155
-Porque primeiro
-eu vou encontrar vocês.
-
-643
-01:11:12,255 --> 01:11:13,355
-Vou encontrá-los.
-
-644
-01:11:13,455 --> 01:11:15,955
-Vocês entenderam?
-Vou encontrá-los!
-
-645
-01:11:16,055 --> 01:11:18,855
-E quando eu Ihes encontrar,
-vou destruí-los.
-
-646
-01:11:18,955 --> 01:11:21,956
-Não esperarei que
-recuperem o seus tamanhos.
-
-647
-01:11:22,056 --> 01:11:24,156
-Vou destruí-los agora!
-
-648
-01:11:42,157 --> 01:11:44,157
-Está agindo
-como um idiota.
-
-649
-01:11:48,058 --> 01:11:50,258
-Um idiota cego.
-
-650
-01:11:59,158 --> 01:12:00,658
-Então, meus amiguinhos...
-
-651
-01:12:00,758 --> 01:12:02,959
-vocês me declararam
-guerra, não foi?
-
-652
-01:12:39,661 --> 01:12:41,762
-Agora vocês podem
-me chamar de Cyclops...
-
-653
-01:12:41,763 --> 01:12:43,962
-porque eu tenho
-um olho bom.
-
-654
-01:15:27,156 --> 01:15:30,291
-MESES DEPOIS
-
-655
-01:15:37,075 --> 01:15:39,775
-Em poucas palavras o
-nosso problema é o seguinte...
-
-656
-01:15:43,475 --> 01:15:45,475
-Se nós contarmos tudo
-o que aconteceu conosco...
-
-657
-01:15:45,575 --> 01:15:47,475
-vão nos prender em
-uma cela acolchoada...
-
-658
-01:15:47,575 --> 01:15:49,575
-e não teremos
-acesso à mina.
-
-659
-01:15:49,675 --> 01:15:53,576
-Portanto lembrem-se,
-nada disso aconteceu.
-
-660
-01:15:56,376 --> 01:15:57,676
-Fora.
-
-661
-01:15:58,876 --> 01:16:01,276
-Ei, vocês viram isso?
-
-662
-01:16:10,377 --> 01:16:14,177
-Ouçam, já não tiveram problemas
-suficiente nestes últimos dias?
+00:09:55,665 --> 00:09:56,457
+[POOP SPLATS]

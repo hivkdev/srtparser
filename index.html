@@ -6,16 +6,61 @@
     <title>Document</title>
 </head>
 <body>
+    <style>
+        *{
+            margin: 0;
+            border: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body{
+            display: flex;
+            width: 100vw;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            flex-direction: column;
+        }
+        #stdout{
+         margin: 10px;
+         background-color: #000;
+         transition: width 2s;
+        }
+        #stdout h1{
+         color: #fff;
+        }
+        video{
+            width: 50%;
+        }
+    </style>
+    <video controls id="video">
+    <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4" >
+    </video>
+
+    <div id="stdout">
+        <h1></h1>
+    </span>
     <script type="module">
-import {SrtParser} from './srtparser.js';      
+import {SrtParser} from './srtparser.js'; 
+const video = document.getElementById("video")    
 let track;
 ((async function(){
-console.log("hello world")
-const res = await fetch('track.srt')
-const text = await res.text()
-track = new SrtParser(text);
+const data = [{
+url:'track.srt',
+name:'english',
+language:'en',
+label:'english',
+default:true,
+},
+]
+track = new SrtParser();
+track.append_media(video);
+track.SetCaptions(data)
+track.stdout = document.getElementById("stdout").getElementsByTagName("h1")[0]
 track.run()
-console.log(track.GetKey(20))
+
     }))()
 
         </script>
